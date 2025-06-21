@@ -60,6 +60,7 @@ header:hover {
 .coding-links a:hover {
     background-color: #2e7d32;
     transform: scale(1.05);
+    text-decoration: none;
 }
 
 
